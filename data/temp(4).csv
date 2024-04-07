@@ -1,0 +1,10 @@
+Husleje (kr./m²) fordelt på område, bygnings opførelsesår og udlejningstype (  2017)
+"Område";"-1949";;;"1950-1973";;;"1974-1999";;;"2000+";;
+;"Almene familieboliger";"Private udlejningsboliger (ikke ejerlejligheder)";"Private udlejningsboliger (ejerlejligheder)";"Almene familieboliger";"Private udlejningsboliger (ikke ejerlejligheder)";"Private udlejningsboliger (ejerlejligheder)";"Almene familieboliger";"Private udlejningsboliger (ikke ejerlejligheder)";"Private udlejningsboliger (ejerlejligheder)";"Almene familieboliger";"Private udlejningsboliger (ikke ejerlejligheder)";"Private udlejningsboliger (ejerlejligheder)"
+"København";833;849;1.021;867;858;1.005;986;1.152;1.124;1.101;1.481;1.450
+
+0-værdier kan forekomme, hvis datagrundlaget er for mangelfuldt til 
+at beregne en gennemsnitlig husleje for den valgte boligkategori.
+Se siden 'Om data' for oplysninger om metode og databegrænsninger.
+ 
+Kilde: SBSTs boligstatistiske database, BBR og Boligstøtteregister 2021 
